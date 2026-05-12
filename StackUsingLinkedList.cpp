@@ -15,3 +15,7 @@ public:
     }
 };
 
+//Stack Class
+class stack
+{
+};
